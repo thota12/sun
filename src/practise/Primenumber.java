@@ -6,7 +6,7 @@ public class Primenumber {
 
         int num = 29;
         boolean flag = false;
-        for(int i = 2; i <= num/2; ++i)
+        for(int i = 6; i <= num/2; ++i)
         {
             // condition for nonprime number
             if(num % i == 0)
