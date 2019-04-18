@@ -4,7 +4,7 @@ public class Primenumber {
 
     public static void main(String[] args) {
 
-        int num = 29;
+        int num = 39;
         boolean flag = false;
         for(int i = 6; i <= num/2; ++i)
         {
